@@ -1,4 +1,4 @@
-# HackPSU Eye-Ballers - Detecting glaucoma - Style GAN3 Project
+# Eye-Ballers - Glaucoma Predection Model 
 
 Harnessing the power of Style GAN3, we bridge the gap between tech and creativity, pushing the boundaries of digital design to detect if a person is suffering from glaucoma or not using an image of the eye. 
 
