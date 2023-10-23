@@ -2,7 +2,7 @@
 
 Harnessing the power of Style GAN3, we bridge the gap between tech and creativity, pushing the boundaries of digital design to detect if a person is suffering from glaucoma or not using an image of the eye. We made this for HackPSU Fall 2023 (https://hackpsu.org/)
 
-This is the final product we were aiming for -
+This is the final product we were made -
 
 ![CleanShot 2023-10-22 at 12 57 48@2x](https://github.com/Idhant297/glaucoma-prediction-model--/assets/84667585/88a8b180-62c1-4bcc-a3ad-1161db50420b)
 
