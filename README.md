@@ -1,6 +1,6 @@
 # Eye-Ballers - Glaucoma Predection Model 
 
-Harnessing the power of Style GAN3, we bridge the gap between tech and creativity, pushing the boundaries of digital design to detect if a person is suffering from glaucoma or not using an image of the eye. 
+Harnessing the power of Style GAN3, we bridge the gap between tech and creativity, pushing the boundaries of digital design to detect if a person is suffering from glaucoma or not using an image of the eye. We did for HackPSU Fall 2023 (https://hackpsu.org/)
 
 This is the final product we were aiming for -
 
